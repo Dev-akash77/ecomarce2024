@@ -1,0 +1,1 @@
+import"./hamburgermenue-1br6FkMV.js";import{g as o}from"./getDtataFromLS-Du1oZu-l.js";o();let e=document.querySelector("form");e.onsubmit=t=>{t.preventDefault(),alert("Thank you for connecting with Akash Ecomarce Store")};
